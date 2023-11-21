@@ -1,0 +1,14 @@
+{
+  "name": "nodzik",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start:validate": "node validate.js",
+    "start:generate": "node generate.js"
+  },
+  "author": "Vladyslav Potapenko",
+  "license": "MIT",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
